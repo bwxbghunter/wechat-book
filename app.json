@@ -1,15 +1,17 @@
 {
     "entryPagePath": "pages/bookstore/bookstore",
-    "pages":[
+    "pages": [
         "pages/welfare/welfare",
         "pages/bookstore/bookstore",
-        "pages/listenbook/listenbook"
+        "pages/listenbook/listenbook",
+        "pages/bookstore/search/search",
+        "pages/bookstore/bookshelf/bookshelf"
     ],
-    "window":{
-        "backgroundTextStyle":"light",
+    "window": {
+        "backgroundTextStyle": "light",
         "navigationBarBackgroundColor": "#fff",
         "navigationBarTitleText": "微信读书",
-        "navigationBarTextStyle":"black"
+        "navigationBarTextStyle": "black"
     },
     "tabBar": {
         "color": "#888",
